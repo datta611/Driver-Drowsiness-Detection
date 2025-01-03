@@ -5,13 +5,13 @@ Driver Drowsiness Detection System
 ## Project Structure
 
 Driver-Drowsiness-Detection/
-|-- eyes/ # Contains eye detection Haar cascade files
-|-- haar cascade files/ # Contains Haar cascade files for face detection
-|-- models/ # Contains saved models
-|-- alarm.wav # Alarm sound file for drowsiness detection
-|-- Model Training.ipynb # Jupyter Notebook for model training
-|-- Prediction.ipynb # Jupyter Notebook for drowsiness detection
-|-- README.md # Documentation of the project
+- eyes/ # Contains eye detection Haar cascade files
+- haar cascade files/ # Contains Haar cascade files for face detection
+- models/ # Contains saved models
+- alarm.wav # Alarm sound file for drowsiness detection
+- Model Training.ipynb # Jupyter Notebook for model training
+- Prediction.ipynb # Jupyter Notebook for drowsiness detection
+- README.md # Documentation of the project
 
 ## Overview
 
